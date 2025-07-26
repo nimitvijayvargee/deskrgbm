@@ -15,5 +15,8 @@ The PCB took a bit longer as I had to locate the footprints and trace each LED t
 ![pcb2](assets/pcb2.png)
 
 # Day 2 - 1 Hour
-I decided to use QMK-Vial to code the thing, becuase the Vial GUI will allow me to easily piggyback off the effects with QMK. Also, it will make it easier for me to control the rotary encoder, allowing me to switch effects, brightness and speed on the go!
+I decided to use QMK-Vial to code the thing, because the Vial GUI will allow me to easily piggyback off the effects with QMK. Also, it will make it easier for me to control the rotary encoder, allowing me to switch effects, brightness and speed on the go!
 I created a new QMK keyboard and only added the matrix switch as direct pin. I added the rotary encoder and RGB into my `info.json` to circumvent writing too much code.
+
+# Day 3 - 2 Hours
+Completed Vial-QMK code for the matrix and spent a lot of time debugging the compiler. As it turns out, the VSCode integrated terminal does not co-operate with QMK. Eventually, I managed to compile using QMK-MSYS and getting the .uf2 file. The code basically makes the device seem like an HID device but the keymaps are only linked to the RGB Matrix feature, allowing me to modify the RGB effects over the Vial GUI as I would to a regular keyboard.

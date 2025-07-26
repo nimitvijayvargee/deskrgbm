@@ -1,0 +1,31 @@
+{
+    "manufacturer": "nimit vijayvargee",
+    "keyboard_name": "deskrgbm",
+    "maintainer": "nimit vijayvargee",
+    "bootloader": "rp2040",
+    "features": {
+        "bootmagic": true,
+        "command": false,
+        "console": false,
+        "extrakey": true
+    },
+    "matrix_pins": {
+        "direct": [
+            ["GP27"]
+        ]
+    },
+    "processor": "RP2040",
+    "url": "",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x0000",
+        "vid": "0xFEED"
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"x": 0, "y": 0}
+            ]
+        }
+    }
+}
