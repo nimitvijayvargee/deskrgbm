@@ -20,3 +20,8 @@ I created a new QMK keyboard and only added the matrix switch as direct pin. I a
 
 # Day 3 - 2 Hours
 Completed Vial-QMK code for the matrix and spent a lot of time debugging the compiler. As it turns out, the VSCode integrated terminal does not co-operate with QMK. Eventually, I managed to compile using QMK-MSYS and getting the .uf2 file. The code basically makes the device seem like an HID device but the keymaps are only linked to the RGB Matrix feature, allowing me to modify the RGB effects over the Vial GUI as I would to a regular keyboard.
+
+# Day 4 - 2 Hours
+Modelled the holder in Fusion 360 and rendered it with the PCB. It is a simple stand with 2x M3 Screws to hold the PCB in place. Also replaced all the 0402 capacitors with THT ones to save costs on PCB Assembly, since I can solder it myself.
+![render holder](assets/render_holder.png)
+![render holder and pcb](assets/render_together.png)
