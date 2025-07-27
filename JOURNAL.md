@@ -25,3 +25,4 @@ Completed Vial-QMK code for the matrix and spent a lot of time debugging the com
 Modelled the holder in Fusion 360 and rendered it with the PCB. It is a simple stand with 2x M3 Screws to hold the PCB in place. Also replaced all the 0402 capacitors with THT ones to save costs on PCB Assembly, since I can solder it myself.
 ![render holder](assets/render_holder.png)
 ![render holder and pcb](assets/render_together.png)
+
