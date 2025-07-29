@@ -13,8 +13,8 @@ The PCB is very easy to assemble and uses THT Capacitors to be beginner friendly
 |Product       |Price|Link                                                                                               |
 |--------------|-----|---------------------------------------------------------------------------------------------------|
 |PCB           |42   |https://pcbpower.com/                                                                              |
-|WS2812B       |12   |https://sharvielectronics.com/product/ws2812b-v5-w-5v-0-24w-digital-rgb-led-4-pin-smd-5050-package/|
+|WS2812B       |5    |https://www.ktron.in/product/ws2812b-rgb-smd-5050-led/                                             |
 |THT Capacitors|5    |https://sharvielectronics.com/product/100nf-250v-0-1uf-polyester-film-capacitor-7-5mm              |
 |Xiao RP2040   |7    |[already have this]                                                                                |
 |Rotary encoder|3    |[already have this]                                                                                |
-|Total         |59   |                                                                                                   |
+|Total         |52   |                                                                                                   |
