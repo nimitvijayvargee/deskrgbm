@@ -1,4 +1,4 @@
-<img width="349" height="194" alt="image" src="https://github.com/user-attachments/assets/0f574d57-6908-4fcb-b684-2d528513de52" /># deskrgbm
+# deskrgbm
 desktop rgb matrix for the vibes
 
 deskrgbm has a xiao-rp2040 and a WS2812B matrix that can be controlled using QMK-Vial. It is a simple RGB Matrix that can display effects and be used as a desktop ornament. It also features a rotary encoder to control the effects, brightness and speed of the RGB Matrix. The code is written in QMK and can be easily modified using the Vial GUI.
